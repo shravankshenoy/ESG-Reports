@@ -2,6 +2,6 @@
 
 This repository contains ESG reports of various organizations
 
-Function | MySQL / MariaDB | PostgreSQL | SQLite
+Function | WF | JPMC | BoA | Citibank
 :------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
+GHG Emission | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: 
