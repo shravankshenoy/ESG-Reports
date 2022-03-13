@@ -4,7 +4,7 @@ This repository contains ESG reports of various organizations
 
 
 | Parameter | WF | JPMC | BoA | Citibank |
-| -----     |--- |----  |---- |------    |
+| -----     |--- |----  |----|------    |
 
 
 
