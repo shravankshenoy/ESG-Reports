@@ -10,8 +10,12 @@ This repository contains ESG reports of various organizations. ESG reports are d
 
 
 
+
 ### References
 Wells Fargo ESG Report - https://www.wellsfargo.com/about/corporate-responsibility/goals-and-reporting/
+
 JP Morgan and Chase ESG Report - https://www.jpmorganchase.com/about/governance/esg
+
 Bank of America ESG Report - https://about.bankofamerica.com/en/making-an-impact/esg-reports
+
 Citibank ESG Report - https://www.citigroup.com/citi/about/esg/downloads.html
