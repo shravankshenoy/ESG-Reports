@@ -8,9 +8,9 @@ This repository contains ESG reports of various organizations. ESG reports are d
 | -----     |--- |----  |---- |------    |
 |GHG Emission | :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |Renewable Energy|  :heavy_check_mark: |                 | :heavy_check_mark: |                    |
-|Waste           |  :heavy_check_mark: |                 | :heavy_check_mark: |                    |
-|LEED Buildings  |  :heavy_check_mark: |                 | :heavy_check_mark: |                    |
-|Water Consumption |  :heavy_check_mark: |                 | :heavy_check_mark: |                    |
+|Waste           |  :heavy_check_mark: |                 | :heavy_check_mark: | :heavy_check_mark: |
+|LEED Buildings  |  :heavy_check_mark: |                 | :heavy_check_mark: | :heavy_check_mark: |
+|Water Consumption |  :heavy_check_mark: |                 | :heavy_check_mark: | :heavy_check_mark:|
 
 
 
