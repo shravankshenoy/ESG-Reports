@@ -1,6 +1,6 @@
 # ESG Reports
 
-This repository contains ESG reports of various organizations. ESG reports are disclosure of data covering the company's performance in three areas: environmental, social and corporate governance.
+This repository contains ESG reports of various organizations. ESG reports are disclosure of data covering the company's performance in three areas: environmental, social and corporate governance. This repository focuses mainly on the environmental aspect.
 
 ### Big 4 Banks of America
 
